@@ -23,7 +23,7 @@ Requirements
 
 
 Prerequisites
--------------
+---------
 
 Splunk version 5.0.1 or Higher
 
@@ -33,7 +33,7 @@ You can download it [Splunk][splunk-download].  And see the [Splunk documentatio
 [splunk-download]:http://www.splunk.com/download
 
 Installation instructions
--------------------------
+---------
 
 1) Use the following rule to determine Monitor IDs for your account: http://gsr.webservice.gomez.com/gpnaccountmanagementservice/GpnAccountManagementService.asmx?op=GetAccountMonitors
 
@@ -59,13 +59,13 @@ Installation instructions
 * Java JDK 6
 
 Recommendations
-_______________
+---------
 
 It is recommend that this be installed on an intermedate forwarder.
 Interval should be no longer than 3600 depending on number of transactions and data volume from Compuware API.
 
 Future Enhancements
-___________________
+---------
 
 1) Proxy Support
 
