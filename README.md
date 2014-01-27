@@ -25,8 +25,6 @@ Requirements
 Prerequisites
 -------------
 
-### Splunk
-
 Splunk version 5.0.1 or Higher
 
 You can download it [Splunk][splunk-download].  And see the [Splunk documentation][] for instructions on installing and more.
