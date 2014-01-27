@@ -1,0 +1,39 @@
+[app/ui]
+version = 6.0
+modtime = 1390019945.129496000
+
+[app/launcher]
+version = 6.0
+modtime = 1390019945.138920000
+
+[inputs/compuware-gpn%3A%2F%2FClarisonic%20Checkout%20v6]
+version = 6.0
+modtime = 1390626034.227388000
+
+[inputs/compuware-gpn%3A%2F%2FKey%20Word%20Blue%20-%20IE%20Agent]
+version = 6.0
+modtime = 1390626044.165753000
+
+[inputs/compuware-gpn%3A%2F%2FNordstrom.com%20-%20IE%20Agent]
+version = 6.0
+modtime = 1390626052.704364000
+
+[inputs/compuware-gpn%3A%2F%2FSearch%20-%20KeyWord%20blue%20-%20IE%20Agent]
+version = 6.0
+modtime = 1390626067.103382000
+
+[inputs/compuware-gpn%3A%2F%2FSecure.nordstrom.com%20-%20IE%20Agent]
+version = 6.0
+modtime = 1390626078.204320000
+
+[inputs/compuware-gpn%3A%2F%2FUTA_Search%20-%20KeyWord%20blue]
+version = 6.0
+modtime = 1390626094.705660000
+
+[inputs/compuware-gpn%3A%2F%2FUTA_Shop%20-%20Home%20page%20-%205%20mins]
+version = 6.0
+modtime = 1390626103.191112000
+
+[inputs/compuware-gpn%3A%2F%2FShop.nordstrom.com%20-%20IE%20Agent]
+version = 6.0
+modtime = 1390626124.797399000
