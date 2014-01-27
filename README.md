@@ -4,8 +4,6 @@ Compuware GPN - Modular Input for Splunk
 Compuware APM Synthetic Modular Input is an app that uses Compuware GPN API (formally Gomez Networks). 
 This modular input utilizies suds python library.
 
-Shuttl provides a full-lifecycle solution for data in Splunk.
-
 
 Requirements
 ---------
@@ -56,7 +54,6 @@ Installation instructions
         modified: 7/8/2008 3:56:06 PM
         created: 7/8/2008 3:56:06 PM
 
-* Java JDK 6
 
 Recommendations
 ---------
